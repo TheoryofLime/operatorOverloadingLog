@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingLog\operatorOverloadingLog\bin\Debug\net6.0\operatorOverloadingLog.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingLog\operatorOverloadingLog\bin\Debug\net6.0\operatorOverloadingLog.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingLog\operatorOverloadingLog\bin\Debug\net6.0\operatorOverloadingLog.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingLog\operatorOverloadingLog\bin\Debug\net6.0\operatorOverloadingLog.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingLog\operatorOverloadingLog\bin\Debug\net6.0\operatorOverloadingLog.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingLog\operatorOverloadingLog\obj\Debug\net6.0\operatorOverloadingLog.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingLog\operatorOverloadingLog\obj\Debug\net6.0\operatorOverloadingLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingLog\operatorOverloadingLog\obj\Debug\net6.0\operatorOverloadingLog.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingLog\operatorOverloadingLog\obj\Debug\net6.0\operatorOverloadingLog.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingLog\operatorOverloadingLog\obj\Debug\net6.0\operatorOverloadingLog.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingLog\operatorOverloadingLog\obj\Debug\net6.0\operatorOverloadingLog.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingLog\operatorOverloadingLog\obj\Debug\net6.0\refint\operatorOverloadingLog.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingLog\operatorOverloadingLog\obj\Debug\net6.0\operatorOverloadingLog.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingLog\operatorOverloadingLog\obj\Debug\net6.0\operatorOverloadingLog.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingLog\operatorOverloadingLog\obj\Debug\net6.0\ref\operatorOverloadingLog.dll
